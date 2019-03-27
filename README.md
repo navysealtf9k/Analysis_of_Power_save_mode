@@ -9,5 +9,5 @@ Folder Name | Description | Link
 :------------ | :------------------------ | :----------------------------------:
 Code | This folder is our codebase. It contains different R scripts (with detailed comments) I wrote to perform our analysis and generate our findings. | [Click here](https://github.com/navysealtf9k/Analysis_of_Power_save_mode/tree/master/Code)
 Data | This folder holds data manually collected from multiple experimental runs. It's contents allows readers to reproduce our work.| [Click here](https://github.com/navysealtf9k/Analysis_of_Power_save_mode/tree/master/Data)
-Documents | This folder contains plots and pdf documents which explain our methodology, analysis and results of our experiment in an intuitive manner. | [Click here](https://github.com/navysealtf9k/Analysis_of_Power_save_mode/blob/master/Results/Effectiveness%20of%20Power%20Save%20mode%20in%20mobile%20phones.pdf)
+Results | This folder contains plots and pdf documents which explain our methodology, analysis and results of our experiment in an intuitive manner. | [Click here](https://github.com/navysealtf9k/Analysis_of_Power_save_mode/blob/master/Results/Effectiveness%20of%20Power%20Save%20mode%20in%20mobile%20phones.pdf)
 
