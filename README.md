@@ -1,5 +1,5 @@
 # Analysis_of_Power_save_mode
-This repository details my final project for UBC's design of experiments course ( [STAT 404](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=404)). In this project, my team and I investigated if turning on the power save mode had a statistically significant effect in reducing a phone battery's average drain time.
+This repository details my final project for UBC's design of experiments course ( [STAT 404](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=404)). In this project, my team and I investigated if a phone's power save mode had a statistically significant effect on reducing its battery's average drain time.
 
 
 # REPO Contents
